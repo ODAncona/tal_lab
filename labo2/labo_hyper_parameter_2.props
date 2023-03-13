@@ -17,7 +17,7 @@
            openClassTags = 
 rareWordMinFeatureThresh = 10
           rareWordThresh = 5
-                  search = qn
+                  search = cg
                     sgml = false
             sigmaSquared = 0.0
                    regL1 = 0.75
